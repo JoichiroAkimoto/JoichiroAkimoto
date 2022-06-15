@@ -1,6 +1,6 @@
 ### Hey there 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoichiroAkimoto&theme=dark&show_icons=true&show_icons=true&count_private=true&include_all_commits=1)](https://github.com/anuraghazra/github-readme-stats)
+[![Joe's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoichiroAkimoto&theme=dark&show_icons=true&count_private=true&include_all_commits=1&custom_title=Joe's%20GitHub%20stats)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoichiroAkimoto&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
@@ -18,4 +18,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+Refferences
+- 
+
 -->
